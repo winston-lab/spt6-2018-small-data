@@ -1,0 +1,19 @@
+,Label,Date and Time,Document,Source,Scale,Scale Units,Scale Factor,Count,Area,Perimeter,Circularity,Height,Width,Gray Value (Minimum),Gray Value (Maximum),Gray Value (Mean),Gray Value (Median),Integrated Density,Histogram
+spt-1,TFIIB,2018-03-08T12:48:01-05:00,dst1-myc.tif,Selection,1 pixel(s) = 1.0000 pixels,pixels,1,1,360,92,0.534486,10,36,27,214,73.994444,54,26638,Histogram-1.csv
+wt-1,TFIIB,2018-03-08T12:48:10-05:00,dst1-myc.tif,Selection,1 pixel(s) = 1.0000 pixels,pixels,1,1,360,92,0.534486,10,36,28,224,94.388889,74,33980,Histogram-2.csv
+spt-2,TFIIB,2018-03-08T12:48:21-05:00,dst1-myc.tif,Selection,1 pixel(s) = 1.0000 pixels,pixels,1,1,360,92,0.534486,10,36,32,203,94.094444,76,33874,Histogram-3.csv
+wt-2,TFIIB,2018-03-08T12:48:32-05:00,dst1-myc.tif,Selection,1 pixel(s) = 1.0000 pixels,pixels,1,1,360,92,0.534486,10,36,28,238,88.377778,64,31816,Histogram-4.csv
+spt-3,TFIIB,2018-03-08T12:48:46-05:00,dst1-myc.tif,Selection,1 pixel(s) = 1.0000 pixels,pixels,1,1,360,92,0.534486,10,36,34,189,87.652778,75,31555,Histogram-5.csv
+wt-3,TFIIB,2018-03-08T12:48:53-05:00,dst1-myc.tif,Selection,1 pixel(s) = 1.0000 pixels,pixels,1,1,360,92,0.534486,10,36,28,225,99.35,78,35766,Histogram-6.csv
+spt-1,Dst1 SpikeIn,2018-03-08T12:49:16-05:00,dst1-myc.tif,Selection,1 pixel(s) = 1.0000 pixels,pixels,1,1,360,92,0.534486,10,36,29,167,105.752778,109,38071,Histogram-7.csv
+wt-1,Dst1 SpikeIn,2018-03-08T12:49:23-05:00,dst1-myc.tif,Selection,1 pixel(s) = 1.0000 pixels,pixels,1,1,360,92,0.534486,10,36,31,196,97.061111,97,34942,Histogram-8.csv
+spt-2,Dst1 SpikeIn,2018-03-08T12:49:33-05:00,dst1-myc.tif,Selection,1 pixel(s) = 1.0000 pixels,pixels,1,1,360,92,0.534486,10,36,36,191,117.219444,120,42199,Histogram-9.csv
+wt-2,Dst1 SpikeIn,2018-03-08T12:49:44-05:00,dst1-myc.tif,Selection,1 pixel(s) = 1.0000 pixels,pixels,1,1,360,92,0.534486,10,36,31,182,96.405556,90,34706,Histogram-10.csv
+spt-3,Dst1 SpikeIn,2018-03-08T12:49:52-05:00,dst1-myc.tif,Selection,1 pixel(s) = 1.0000 pixels,pixels,1,1,360,92,0.534486,10,36,35,201,109.419444,108,39391,Histogram-11.csv
+wt-3,Dst1 SpikeIn,2018-03-08T12:50:03-05:00,dst1-myc.tif,Selection,1 pixel(s) = 1.0000 pixels,pixels,1,1,360,92,0.534486,10,36,28,207,103.377778,90,37216,Histogram-12.csv
+spt-1,background,2018-03-08T12:50:22-05:00,dst1-myc.tif,Selection,1 pixel(s) = 1.0000 pixels,pixels,1,1,360,92,0.534486,10,36,26,51,40.133333,41,14448,Histogram-13.csv
+wt-1,background,2018-03-08T12:50:31-05:00,dst1-myc.tif,Selection,1 pixel(s) = 1.0000 pixels,pixels,1,1,360,92,0.534486,10,36,27,50,40.597222,42,14615,Histogram-14.csv
+spt-2,background,2018-03-08T12:50:36-05:00,dst1-myc.tif,Selection,1 pixel(s) = 1.0000 pixels,pixels,1,1,360,92,0.534486,10,36,27,69,39.738889,40,14306,Histogram-15.csv
+wt-2,background,2018-03-08T12:50:43-05:00,dst1-myc.tif,Selection,1 pixel(s) = 1.0000 pixels,pixels,1,1,360,92,0.534486,10,36,23,48,36.625,37,13185,Histogram-16.csv
+spt-3,background,2018-03-08T12:50:48-05:00,dst1-myc.tif,Selection,1 pixel(s) = 1.0000 pixels,pixels,1,1,360,92,0.534486,10,36,27,44,35.497222,36,12779,Histogram-17.csv
+wt-3,background,2018-03-08T12:50:59-05:00,dst1-myc.tif,Selection,1 pixel(s) = 1.0000 pixels,pixels,1,1,360,92,0.534486,10,36,23,46,36.711111,37,13216,Histogram-18.csv

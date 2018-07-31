@@ -1,0 +1,19 @@
+Sample	Factor	Date and Time	Document	Source	Scale	Scale Units	Scale Factor	Count	Area	Perimeter	Circularity	Height	Width	Gray Value (Minimum)	Gray Value (Maximum)	Gray Value (Mean)	Gray Value (Median)	Integrated Density	Histogram
+WT-1	SPT6	2018-05-30T09:57:24-04:00	359-8 FLAG.tif	Selection	1 pixel(s) = 1.0000 pixels	pixels	1	1	192	76	0.417719	6	32	9	221	57.114583	25	10966	Histogram-1.csv
+spt6-1	SPT6	2018-05-30T09:57:34-04:00	359-8 FLAG.tif	Selection	1 pixel(s) = 1.0000 pixels	pixels	1	1	192	76	0.417719	6	32	8	24	12.125	11	2328	Histogram-2.csv
+WT-2	SPT6	2018-05-30T09:57:44-04:00	359-8 FLAG.tif	Selection	1 pixel(s) = 1.0000 pixels	pixels	1	1	192	76	0.417719	6	32	8	253	54.822917	29	10526	Histogram-3.csv
+spt6-2	SPT6	2018-05-30T09:57:51-04:00	359-8 FLAG.tif	Selection	1 pixel(s) = 1.0000 pixels	pixels	1	1	192	76	0.417719	6	32	8	26	13.375	12	2568	Histogram-4.csv
+WT-3	SPT6	2018-05-30T09:57:58-04:00	359-8 FLAG.tif	Selection	1 pixel(s) = 1.0000 pixels	pixels	1	1	192	76	0.417719	6	32	8	222	58.567708	26	11245	Histogram-5.csv
+spt6-3	SPT6	2018-05-30T09:58:04-04:00	359-8 FLAG.tif	Selection	1 pixel(s) = 1.0000 pixels	pixels	1	1	192	76	0.417719	6	32	8	21	12.005208	11	2305	Histogram-6.csv
+WT-1	background	2018-05-30T09:58:20-04:00	359-8 FLAG.tif	Selection	1 pixel(s) = 1.0000 pixels	pixels	1	1	192	76	0.417719	6	32	8	10	8.786458	9	1687	Histogram-7.csv
+spt6-1	background	2018-05-30T09:58:25-04:00	359-8 FLAG.tif	Selection	1 pixel(s) = 1.0000 pixels	pixels	1	1	192	76	0.417719	6	32	8	10	8.697917	9	1670	Histogram-8.csv
+WT-2	background	2018-05-30T09:58:32-04:00	359-8 FLAG.tif	Selection	1 pixel(s) = 1.0000 pixels	pixels	1	1	192	76	0.417719	6	32	8	10	9.083333	9	1744	Histogram-9.csv
+spt6-2	background	2018-05-30T09:58:37-04:00	359-8 FLAG.tif	Selection	1 pixel(s) = 1.0000 pixels	pixels	1	1	192	76	0.417719	6	32	8	11	9.166667	9	1760	Histogram-10.csv
+WT-3	background	2018-05-30T09:58:43-04:00	359-8 FLAG.tif	Selection	1 pixel(s) = 1.0000 pixels	pixels	1	1	192	76	0.417719	6	32	8	11	9.442708	9	1813	Histogram-11.csv
+spt6-3	background	2018-05-30T09:58:48-04:00	359-8 FLAG.tif	Selection	1 pixel(s) = 1.0000 pixels	pixels	1	1	192	76	0.417719	6	32	7	10	8.765625	9	1683	Histogram-12.csv
+WT-1	DST1	2018-05-30T09:45:38-04:00	359-8 FLAG.tif	Selection	1 pixel(s) = 1.0000 pixels	pixels	1	1	400	100	0.502655	10	40	9	224	52.9425	27	21177	Histogram-7.csv
+spt6-1	DST1	2018-05-30T09:45:47-04:00	359-8 FLAG.tif	Selection	1 pixel(s) = 1.0000 pixels	pixels	1	1	400	100	0.502655	10	40	9	209	47.9225	22	19169	Histogram-8.csv
+WT-2	DST1	2018-05-30T09:45:55-04:00	359-8 FLAG.tif	Selection	1 pixel(s) = 1.0000 pixels	pixels	1	1	400	100	0.502655	10	40	9	254	54.1275	21	21651	Histogram-9.csv
+spt6-2	DST1	2018-05-30T09:46:02-04:00	359-8 FLAG.tif	Selection	1 pixel(s) = 1.0000 pixels	pixels	1	1	400	100	0.502655	10	40	9	253	57.4025	24	22961	Histogram-10.csv
+WT-3	DST1	2018-05-30T09:46:10-04:00	359-8 FLAG.tif	Selection	1 pixel(s) = 1.0000 pixels	pixels	1	1	400	100	0.502655	10	40	8	252	50.46	20	20184	Histogram-11.csv
+spt6-3	DST1	2018-05-30T09:46:17-04:00	359-8 FLAG.tif	Selection	1 pixel(s) = 1.0000 pixels	pixels	1	1	400	100	0.502655	10	40	9	216	50.435	27	20174	Histogram-12.csv

@@ -1,0 +1,16 @@
+name: small_data
+channels:
+    - conda-forge
+    - bioconda
+    - https://repo.anaconda.com/pkgs/free/linux-64
+    - https://repo.anaconda.com/pkgs/free/noarch
+    - https://repo.anaconda.com/pkgs/pro/linux-64
+    - https://repo.anaconda.com/pkgs/pro/noarch
+    - nodefaults
+dependencies:
+    - r-tidyverse=1.1.1
+    - r-ggthemes=3.4.0
+    - r-svglite=1.2.1
+    - r-gdtools=0.1.6
+    - r-stringi=1.1.7
+
