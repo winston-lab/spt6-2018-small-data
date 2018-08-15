@@ -4,11 +4,12 @@
 ## description
 
 Small data sets used in [our preprint](https://doi.org/10.1101/347575). Includes the following:
-    - histone H3 ChIP-qPCR (`h3-chip-qpcr`)
-    - RT-qPCR during Spt6 depletion (`spt6-depletion-rtpqcr`)
-    - Spt6 Western blots (`spt6-western`)
-    - TFIIB ChIP-qPCR (`tfiib-chip-qpcr`)
-    - TFIIB Western blots (`tfiib-western`)
+
+- histone H3 ChIP-qPCR (`h3-chip-qpcr`)
+- RT-qPCR during Spt6 depletion (`spt6-depletion-rtpqcr`)
+- Spt6 Western blots (`spt6-western`)
+- TFIIB ChIP-qPCR (`tfiib-chip-qpcr`)
+- TFIIB Western blots (`tfiib-western`)
 
 ## requirements
 
@@ -39,7 +40,7 @@ cd tfiib-chip-qpcr
 Rscript tfiib-qpcr.R
 ```
 
-**2.** To generate png versions of the svg files, run `mogrify.sh`.
+**2.** To generate png versions of the svg files generated, run `mogrify.sh`.
 
 ```bash
 ./mogrify.sh
