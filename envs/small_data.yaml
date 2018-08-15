@@ -13,4 +13,5 @@ dependencies:
     - r-svglite=1.2.1
     - r-gdtools=0.1.6
     - r-stringi=1.1.7
+    - svg2png=4.1.1
 
