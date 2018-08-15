@@ -18,7 +18,7 @@ Small data sets used in [our preprint](https://doi.org/10.1101/347575). Includes
 - [conda](https://conda.io/docs/user-guide/install/index.html)
 
 ## instructions
-**0**. To create figures for any of the ChIP-qPCR datasets or TFIIB Western blots , create and activate the small_data virtual environment using conda. This can take a while, be patient.
+**0**. To create figures for any of the ChIP-qPCR datasets or TFIIB Western blots, create and activate the small_data virtual environment using conda. This can take a while, be patient.
 
 ```bash
 
