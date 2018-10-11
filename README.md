@@ -3,7 +3,7 @@
 
 ## description
 
-Small data sets used in [our preprint](https://doi.org/10.1101/347575). Includes the following:
+Small data sets used in our [2018 Spt6 publication](https://doi.org/10.1016/j.molcel.2018.09.005). Includes the following:
 
 - histone H3 ChIP-qPCR (`h3-chip-qpcr`)
 - RT-qPCR during Spt6 depletion (`spt6-depletion-rtpqcr`)
